@@ -8,7 +8,7 @@
  normalized frequency at ω = 1 rad/sec. Print your code, results and figures.
 ```
 ## Solution :
-Using the generalm rule at k=3  :
+Using the general rule at k=3  :
 ![image](https://user-images.githubusercontent.com/83988379/171443473-473cec44-0c7e-4d5d-80fb-ebfadc81ed0d.png)
 
 
