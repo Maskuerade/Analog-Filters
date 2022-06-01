@@ -32,3 +32,4 @@ a =
 >> grid
 >> 
 ```
+![task 1 fig](https://user-images.githubusercontent.com/83988379/171440895-87310e94-a82d-479a-9ef8-0d3df89dd1fb.PNG)
