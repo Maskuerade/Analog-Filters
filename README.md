@@ -88,8 +88,9 @@ ylabel('Magnitude of the Transfer Function in (dB) ');
 
 ## Task 2 Q1 :
 ```
-
-
-
+Use the MATLAB functions buttap and lp2bp to find the transfer function
+of a 3-pole Butterworth analog band-pass filter with the pass band
+frequency centered at f0 = 4 KHz, and bandwidth BW = 2 KHz. Then, plot
+its frequency response. Print your code, results and figures.
 
 ```
