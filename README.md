@@ -28,7 +28,7 @@ a =
 
 >> % now send them to bode to start plotting magnitude and phase where W =1 rad/sec 
 >> bode(b,a) 
->> % to add grid lines we will use Grid Command where grid on displays the major grid lines for the current axes returned by the gca command
+>> % to add grid lines we will use Grid Command where grid on displays the major grid lines for the current axes
 >> grid
 >> 
 ```
