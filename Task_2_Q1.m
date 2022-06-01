@@ -1,4 +1,7 @@
-
+>> % it is a 3-pole Butterworth low-pass filter with pass band freq fo=4KHz , bandwidth = 2KHZ 
+>> [zeros , poles , k] = buttap(3);
+>> % calcuate coeffecients of b(numerator) and a (denominator) of the filter
+>> [b,a] = zp2tf ( zeros, poles , k);
 % declare band pass frequency f0=4KHZ and convert it to rad/sec(angular)
 freq = 100:100:100000;
 freqc = 4000 ;  
