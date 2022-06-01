@@ -82,4 +82,5 @@ xlabel('Angular Frequency in :(rad/sec)');
 ylabel('Magnitude of the Transfer Function in (dB) ');
 
 ```
+![Task 2 plot](https://user-images.githubusercontent.com/83988379/171485553-18cf6afb-92b9-4529-9309-0e0f72fb8358.png)
 
