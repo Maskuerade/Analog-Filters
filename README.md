@@ -1,4 +1,4 @@
-# Biosignals Tasks
+# Bio-Signals Tasks
 
 ## Contributers :
 ### Youssef Ashraf - Mariam Ahmed
