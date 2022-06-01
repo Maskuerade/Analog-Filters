@@ -2,7 +2,7 @@
 
 ### Youssef Ashraf - Mariam Ahmed
 
-## Task 1 :
+## Task 1 Q1 :
 ```
  Use the MATLAB bode function to plot the magnitude and phase
  characteristics of the 3-pole Butterworth low-pass filter with unity gain and
@@ -44,4 +44,17 @@ a =
 ```
 
 ![task 1 fig 1](https://user-images.githubusercontent.com/83988379/171441113-39867627-dd73-4f84-8a23-91125f3c5754.PNG)
+
+
+
+## Task 1 Q2 :
+
+```
+ Use the MATLAB buttap and lp2lp functions to find the transfer function
+ of a third-order Butterworth low-pass filter with cutoff frequency fc =
+ 2KHz. Then, plot its frequency response. Print your code, results and figures.
+```
+
+
+
 
