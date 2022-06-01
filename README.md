@@ -9,7 +9,8 @@
 ```
 ## Solution :
 Using the generalm rule at k=3  :
-![image](https://user-images.githubusercontent.com/83988379/171443258-25f9785c-526d-4ffb-a77b-94534efacce7.png)
+![image](https://user-images.githubusercontent.com/83988379/171443473-473cec44-0c7e-4d5d-80fb-ebfadc81ed0d.png)
+
 
 ```
 >> % it is a 3-pole Butterworth low-pass filter
