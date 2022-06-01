@@ -125,6 +125,11 @@ xlabel('Frequency in :(HZ)');
 ylabel('Magnitude of the Transfer Function in (dB)');
 
 ```
+
+![Task 3 plot](https://user-images.githubusercontent.com/83988379/171520435-d220aae0-c9b1-4a24-9f2e-058bbd55e52b.png)
+
+
+
 ## Task 2 Q2 :
 ```
 Use the MATLAB functions buttap and lp2bs to find the transfer function of
@@ -164,3 +169,4 @@ Print your code, results and figures.
  ylabel('Magnitude of the Transfer Function in (dB)');
 
 ```
+![task 4 plot final](https://user-images.githubusercontent.com/83988379/171520460-6b1cfc6b-ffe8-4ab0-92af-8e5c378a6e43.png)
