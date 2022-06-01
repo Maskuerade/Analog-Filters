@@ -8,6 +8,9 @@
  normalized frequency at ω = 1 rad/sec. Print your code, results and figures.
 ```
 ## Solution :
+Using the generalm rule at k=3  :
+![image](https://user-images.githubusercontent.com/83988379/171443258-25f9785c-526d-4ffb-a77b-94534efacce7.png)
+
 ```
 >> % it is a 3-pole Butterworth low-pass filter
 >> % thus k=3 >> for the G(s) 
