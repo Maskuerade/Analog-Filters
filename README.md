@@ -36,6 +36,6 @@ a =
 >> grid
 >> 
 ```
-Bode plotted : 
+
 ![task 1 fig 1](https://user-images.githubusercontent.com/83988379/171441113-39867627-dd73-4f84-8a23-91125f3c5754.PNG)
 
