@@ -1,4 +1,4 @@
-# Biosignals-Tasks
+# Biosignals Tasks
 
 
 ## Task 1 :
