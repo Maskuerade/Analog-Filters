@@ -1,13 +1,30 @@
 # Bio-Signals Tasks
+## Contributors <a name = "Contributors"></a>
+
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/Youssef-Ashraf71" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/83988379?v=4" width="150px;" alt="Youssef Ashraf"/>
+    <br />
+    <sub><b>Youssef Ashraf</b></sub></a>
+    </td>
+<td align="center">
+    <a href="https://github.com/Maskuerade" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/106713214?v=4" width="150px;" alt="Maskuerade"/>
+    <br />
+    <sub><b>Mariam Ahmed</b></sub></a>
+    </td>
+      </tr>
+ </table>
+ 
+ 
 # Main Points :
 * The magnitude and phase characteristics of the 3-pole Butterworth low-pass filter
 * Low Pass to Low pass Filters
 * Low Pass to Band Pass Filters 
 * Low Pass to Band Elimination Filters
 
-
-## Contributers :
-### Youssef Ashraf - Mariam Ahmed
 
 ## Task 1 Q1 :
 ```
