@@ -1,4 +1,10 @@
 # Bio-Signals Tasks
+# Main Points :
+* The magnitude and phase characteristics of the 3-pole Butterworth low-pass filter
+* Low Pass to Low pass Filters
+* Low Pass to Band Pass Filters 
+* Low Pass to Band Elimination Filters
+
 
 ## Contributers :
 ### Youssef Ashraf - Mariam Ahmed
